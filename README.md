@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CDGI Faculty Attendance — Flutter Mobile App
 
 Full-stack attendance system with Flutter (Android/iOS) frontend and Flask + MySQL backend.
@@ -119,3 +120,7 @@ flutter run -d ios
 | POST | `/api/admin/faculty/:id/toggle` | Activate/deactivate |
 | GET | `/api/admin/attendance` | Attendance by date |
 | GET | `/api/colleges` | College list |
+=======
+# CDGI-App
+mobile app
+>>>>>>> a0826727b65277fc936de8d5b68eb68d259683fd
